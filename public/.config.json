@@ -1,0 +1,5 @@
+{
+  "appTitle": "Diet Jupyter",
+  "pyodideUrl": "https://cdn.jsdelivr.net/pyodide/v0.26.4/full/",
+  "sampleNotebook": "samples/Sorting_Algorithms_Demo.ipynb"
+}
